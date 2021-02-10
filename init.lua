@@ -1,4 +1,4 @@
--- CP77 Language Settings Patch fixes the issue that language settings doesn't persist after restart.
+-- CP77 Language Settings Patch fixes the issue that language settings don't persist after restart.
 -- Copyright (C) 2021  Mingming Cui
 --
 -- This program is free software: you can redistribute it and/or modify
