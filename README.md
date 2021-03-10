@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/mingm"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mingm&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" width="180px"></a>
+
 # CP77 Language Settings Patch
 
 A patch for fixing the issue that language settings don't persist after restarting the game.
